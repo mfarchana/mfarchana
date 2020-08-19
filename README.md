@@ -37,6 +37,7 @@ To connect with me,
 <br/>
 <br/>
 </div>
+<br/>
 <div>
   <img algin="left" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfarchana&hide=css,html&show_icons=true&icon_color=1b93c9&show_owner=true"/>
   <br>
