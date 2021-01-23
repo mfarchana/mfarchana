@@ -1,9 +1,7 @@
 ## Hi 👋 I am M. Farchan A.!
 
-- 🔭 I’m currently working as freelance mobile apps development
-- 😊 Willing to contribute in opensource projects.
-
-To connect with me,
+- 🔭 I’m currently working as freelance mobile apps development.
+- 😊 Ask me about mobile apps.
 
 <div align = "center">
 
