@@ -1,7 +1,8 @@
 ## Hi 👋 I am M. Farchan A.!
 
-- 🔭 I’m currently working as freelance mobile apps development.
-- 😊 Ask me about mobile apps.
+- 🔭 I’m currently internship at Pertamina Lubricants Cilacap.
+- 🌱 I’m currently learning REST API, Next JS, Prisma, Sequelize, React JS.
+- 😊 Talk to me about Mobile Development, JavaScript, Freelancing Opportunites.
 
 <div align = "center">
 
@@ -28,6 +29,13 @@
     <img src="https://img.shields.io/badge/-Javascript-%23FF9900?&style=flat-square&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/-C-03599c?&style=flat-square&logo=C&logoColor=white"/> 
     <img src="https://img.shields.io/badge/-Firebase-fec400?&style=flat-square&logo=firebase&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/-Android-3DDC84?&style=flat-square&logo=Android&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/-React JS-61DAFB?&style=flat-square&logo=React&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/-Next JS-000000?&style=flat-square&logo=Next.js&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/-Prisma-2D3748?&style=flat-square&logo=Prisma&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/-Sequelize-52B0E7?&style=flat-square&logo=Sequelize&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/-Mysql-4479A1?&style=flat-square&logo=Mysql&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/-Redux-764ABC?&style=flat-square&logo=Redux&logoColor=white"/> 
   </div>
 <br/>
 <br/>
@@ -36,6 +44,10 @@
 <br/>
 </div>
 <br/>
+<div>
+  
+![Aan's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=mfarchana&theme=react-dark&hide_border=true&area=true)
+  </div>
 <div>
   <img algin="left" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfarchana&hide=css,html&show_icons=true&icon_color=1b93c9&show_owner=true"/>
   <br>
