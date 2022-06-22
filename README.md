@@ -7,7 +7,7 @@
 [<img src="https://komarev.com/ghpvc/?username=mfarchana"/>](https://github.com/mfarchana)
 [![Github](https://img.shields.io/github/followers/mfarchana?label=Follow&style=social)](https://github.com/mfarchana)
  
-## Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I am M. Farchan A.!
+## Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> I am M. Farchan A.!
 
 - 🔭 I’m currently internship as Full Stack Developer at Pertamina Lubricants.
 - 🌱 I’m currently learning REST API, React JS, Gatsby JS, Next JS, Prisma, Sequelize.
@@ -27,7 +27,7 @@
 ---
 
 <div>
- <h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+ <h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="32"> </h2>
    <div>
     <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
   </div>
@@ -56,7 +56,7 @@
   <br/>
   <br/>
   <div>
- <h2> Github Analytics <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+ <h2> Github Analytics <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="32"> </h2>
   
  ![Aan's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=mfarchana&theme=redical&hide_border=true&area=true)
 | ![Aan's github stats](https://github-readme-stats.vercel.app/api?username=mfarchana&show_icons=true&theme=radical)             | ![Aan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mfarchana&theme=radical)                                                                                                           |
