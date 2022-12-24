@@ -9,9 +9,9 @@
  
 ## Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> I am M. Farchan A.!
 
-- 🔭 I’m currently internship as Full Stack Developer at Pertamina Lubricants.
-- 🌱 I’m currently learning REST API, React JS, Gatsby JS, Next JS, Prisma, Sequelize.
-- 😊 Talk to me about Mobile Development, JavaScript, Freelancing Opportunites.
+- 🔭 I’m currently Associate as Software Developers at Deloitte Touche Solutions and Ex-Fullstack Developers Pertamina Lubricants.
+- 🌱 I’m currently learning ~~REST API, React JS, Gatsby JS, Next JS, Prisma, Sequelize~~, Angular, ASP. Net, ngrx, Azure DevOps, Azure LogicApps.
+- 😊 Talk to me about Web Development,Mobile Development, JavaScript, Freelancing Opportunites.
 
 <div align = "center">
 
@@ -58,7 +58,7 @@
   <div>
  <h2> Github Analytics <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="32"> </h2>
   
- ![Aan's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=mfarchana&theme=redical&hide_border=true&area=true)
+<!--  ![Aan's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=mfarchana&theme=redical&hide_border=true&area=true) -->
 | ![Aan's github stats](https://github-readme-stats.vercel.app/api?username=mfarchana&show_icons=true&theme=radical)             | ![Aan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mfarchana&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfarchana&hide=css,html&show_icons=true&icon_color=1b93c9&show_owner=true&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=mfarchana&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=radical&layout=compact) |
